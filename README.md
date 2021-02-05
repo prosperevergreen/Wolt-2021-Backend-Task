@@ -14,7 +14,7 @@ The server runs in a `node (version>=12)` and `npm (version>=6)` environment.
 npm install
 ```
 
-2. Transcompile the JavaScript files with the command:
+2. Transcompile the TypeScript files to JavaScript with the command:
 
 ```bash
 npm run build
